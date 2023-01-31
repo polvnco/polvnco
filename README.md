@@ -1,16 +1,15 @@
-### Hi there 👋
+# Chris Polanco
+### Currently a Systems Engineer with Tompkins Robotics.
 
-<!--
-**polvnco/polvnco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⤷ Interested and highly motivated to learn a variety of tools and technologies in pursuit of success, along with doing side projects in his free time. Outside the work environment, Chris enjoys traveling, lifting weights, and also daydreaming.
 
-Here are some ideas to get you started:
+ <a aligh="left" href="https://https://polvnco-homepage.vercel.app/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:polvnco@pm.me" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/polvnco/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚐ Based in Florida
+
+ϟ Currently working with robots
+
+ϟ Recently got my wisdom teeth taken out.
+
+ ## Skills
+   <a href="https://www.learn-c.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://sanity.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/sanity.svg" alt="Sanity" width="25" height="25" /></a> 
